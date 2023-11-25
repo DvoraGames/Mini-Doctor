@@ -1,0 +1,4 @@
+repository "Mini Doctor - GS Hapvida@Truffulantes@cloud"
+  path "/"
+    br "/main"
+    co "/main"

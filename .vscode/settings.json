@@ -56,7 +56,7 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Mini-Doctor.sln",
+    "dotnet.defaultSolution": "Mini Doctor - GS Hapvida.sln",
     "editor.formatOnType": true,
     "editor.formatOnSave": true
 }
